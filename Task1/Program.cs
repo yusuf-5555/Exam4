@@ -1,0 +1,1 @@
+﻿//Interface rangi abstract klasay neki toka abstract method va property dora. Abstract class bosha ham abstract method, abstract property va ham hamay chizoy classi prostoya dora. interfeysa rangi abstract class obyektsha soxta nameshava.Da interfeys azohosh po umolchaniyu publican. 

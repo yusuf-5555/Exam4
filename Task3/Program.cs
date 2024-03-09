@@ -1,0 +1,1 @@
+﻿//Generics - tipi umumi. Generic baroi on istifoda meshava ki misol yagon klass yo yagon method chand tipekati darkor bosha ba hamuvo knem. koraoson mekna ki bo yatai diga ay hamu ba diga tip bsozem. Bo misol List<> genericay da daruni hamu znakosh chi tipeki navisem hamu tipa megira.
